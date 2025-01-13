@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Funding Page*
 
-Submitted by: **Seth Williams*
+Submitted by: **Seth Williams**
 
 **Sea Monster Funding Page** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
