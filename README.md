@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/ewwmst1.gif' title='Video Walkthrough: https://imgur.com/ewwmst1' width='' alt='https://imgur.com/ewwmst1' />
+<img src='https://i.imgur.com/ewwmst1.gif' title='Video Walkthrough' width='' alt='https://imgur.com/ewwmst1' />
+<p>https://imgur.com/ewwmst1</p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with windows snipping tool. Then Converted from an mp4 to a gif with adobe. Finally uploaded on imgur.
