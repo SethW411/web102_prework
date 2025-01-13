@@ -23,8 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/SethW411/web102_prework/raw/main/Recording.mp4' title='Video Walkthrough' width='' alt='Video' />
+<img src='https://github.com/SethW411/web102_prework/raw/main/Recording.gif' title='Video Walkthrough' width='' alt='Video' />
 <p>https://imgur.com/ewwmst1</p>
+<p>https://github.com/SethW411/web102_prework/raw/main/Recording.mp4</p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with windows snipping tool. Then Converted from an mp4 to a gif with adobe. Finally uploaded on imgur.
